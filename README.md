@@ -29,3 +29,5 @@
 - Job seekers should look at remote-first companies on platforms like RemoteOK and We Work Remotely, as opportunities exist globally. 
 - They should learn Python, ML frameworks, cloud computing (AWS, Azure), and generative AI tools (ChatGPT, Claude). 
 - Highlight both technical ability and adaptability to work in different sectors (healthcare, fintech, education).
+
+### Tools used: Python, PowerBi, Power query
